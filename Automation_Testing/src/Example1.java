@@ -1,7 +1,7 @@
 
 public class Example1 {
 	
-	static int x = m1();
+	static int x = m2();
 	 
 	static {
 		//System.out.println(x);
@@ -9,7 +9,7 @@ public class Example1 {
 	}
 	
 	
-	public static int m1() {
+	public static int m2() {
 		
 		System.out.println("hello");
 		return 1;
